@@ -1,0 +1,36 @@
+Start testing: Oct 19 23:54 EEST
+----------------------------------------------------------
+1/1 Testing: labor6_3test
+1/1 Test: labor6_3test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/labw63it/build/test/labor6_3test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb6/labw63it/build/test
+"labor6_3test" start time: Oct 19 23:54 EEST
+Output:
+----------------------------------------------------------
+arr[0] = 12
+arr[1] = 35
+arr[2] = 39
+arr[3] = 58
+arr[4] = 57
+arr[5] = 11
+arr[6] = 62
+arr[7] = 47
+arr[8] = 83
+arr[9] = 13
+arr[10] = 4
+arr[11] = 26
+arr[12] = 96
+arr[13] = 84
+arr[14] = 23
+arr[15] = 94
+Sum (template) =  8
+Sum (standart function) =  8
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"labor6_3test" end time: Oct 19 23:54 EEST
+"labor6_3test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 19 23:54 EEST
